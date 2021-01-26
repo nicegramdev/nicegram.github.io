@@ -26,4 +26,4 @@ Fast, secure and nice messaging app. Imagine the mix of powerful Telegram API, c
 Everybody is welcome to [Translate](/translate) Nicegram App and Website
 
 
-Nicegram also has a [Privacy Policy](privacy-policy.md).
+Nicegram also has a [Privacy Policy](../privacy-policy.md).
